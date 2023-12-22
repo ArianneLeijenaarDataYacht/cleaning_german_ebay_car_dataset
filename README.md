@@ -1,1 +1,1 @@
-# cleaning_german_ebay_car_dataset
+Old project I did years ago. Just putting it out there for fun!
